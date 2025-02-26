@@ -1,0 +1,4 @@
+flask[async]
+flask-cors
+google-generativeai
+python-dotenv 
